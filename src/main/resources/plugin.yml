@@ -1,0 +1,5 @@
+main: joupiter.dreamzonapi.spigot.Main
+name: DreamzonAPI
+author: Joupiter
+version: 1.0.0
+description: DreamzonAPI

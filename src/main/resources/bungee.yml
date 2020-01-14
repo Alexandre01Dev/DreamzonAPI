@@ -1,0 +1,3 @@
+main: joupiter.dreamzon.bungeecord.bungee.BungeeMain
+version: 1.0.0
+name: DreamzonAPI
